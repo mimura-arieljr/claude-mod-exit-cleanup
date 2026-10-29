@@ -1,0 +1,6 @@
+{
+  "name": "exit-cleanup",
+  "version": "0.1.0",
+  "description": "Asks on /exit or /quit whether to delete this session's history too",
+  "types": "./types/index.d.ts"
+}

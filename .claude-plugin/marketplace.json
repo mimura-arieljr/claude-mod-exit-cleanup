@@ -1,0 +1,6 @@
+{
+  "name": "claude-mod-exit-cleanup",
+  "description": "A Claude Code mod: asks on /exit or /quit whether to delete the session's history too.",
+  "owner": { "name": "Chock Mimura" },
+  "plugins": [{ "name": "exit-cleanup", "source": "./" }]
+}
